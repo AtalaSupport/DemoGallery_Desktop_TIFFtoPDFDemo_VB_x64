@@ -52,7 +52,7 @@ Still, if you wish to use NuGet for the dependencies instead of relying on local
 
 
 ## Downloading source
-The sources can be downloaded for [c#](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64/archive/refs/heads/main.zip) and [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_VB_x64/archive/refs/heads/main.zip)
+The sources can be downloaded for [c#](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64/archive/refs/heads/main.zip) and [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_VB_x64/archive/refs/heads/main.zip)
 
 
 ## Cloning
@@ -60,7 +60,7 @@ If you wish to clone the repo, we recommend:
 
 Example: git for windows
 ```bash
-git clone https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64.git TiffManipulatorDemo
+git clone https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_VB_x64.git TIFFtoPDFDemo
 ```
 
 
@@ -77,5 +77,5 @@ Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.com
 
 Customers with an active evaluation, or those with active support / maintenance may [create a support case](https://www.atalasoft.com/Support/my-portal/Cases/Create-Case) 24/7, or call in to support ([+1 949 236-6510](tel:19492366510) ) during our normal support hours (Monday - Friday 8:00am to 5:00PM Eastern (New York) time).  
 
-Customers who are unable to create a case or call in may [email our Sales Team](email:sales@atalasoft.com).  
+Customers who are unable to create a case or call in may [email our Sales Team](mailto:sales@atalasoft.com).  
 
